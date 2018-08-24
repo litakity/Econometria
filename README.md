@@ -1,1 +1,1 @@
-# Econometriarfuyteg
+# Econometria Séries temporais
